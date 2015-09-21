@@ -1,0 +1,62 @@
+#h1 {
+  font-size: 52px;
+  text-align: center;
+  font-family: "Papyrus";
+  color: white;
+
+}
+
+h5 {
+  font-size: 18px;
+  text-align: center;
+  font-family: "Papyrus";
+  color: white;
+}
+
+img {
+  display: inline;
+  height: 250px;
+}
+
+.title {
+  background-color: red;
+margin-bottom: -18px;
+}
+
+.doll1, .doll2, .doll3, .doll4, .doll5, .doll6 {
+  display: inline-block;
+  visibility: hidden;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+  font-family: "Papyrus";
+
+}
+
+h6 {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Papyrus";
+
+}
+
+#btnmain {
+text-align: center;
+display: inline-block;
+}
+
+.main {
+  margin: auto;
+}
+
+.bottom-img {
+  /*background-image: url('http://previews.123rf.com/images/terriana/terriana1308/terriana130800045/21604242-Old-russian-town-landscape-hand-drawn-vector-illustration-Suzdal-Kremlin-View-of-Suzdal-cityscape-Th-Stock-Vector.jpg');*/
+  width: 100%;
+  background-size: cover;
+}
+
+#img {
+  width: 100%;
+}

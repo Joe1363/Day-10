@@ -1,0 +1,20 @@
+p, .btn {
+  display: inline-block;
+}
+
+p {
+  margin-right: 10px;
+}
+
+#addrow, .btnarea {
+  text-align: center;
+  margin-top: 5px;
+}
+
+h3, h5 {
+  font-family: "Papyrus";
+}
+
+.title {
+  margin-top: -5px;
+}
